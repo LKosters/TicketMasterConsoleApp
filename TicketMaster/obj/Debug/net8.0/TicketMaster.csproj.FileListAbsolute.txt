@@ -12,3 +12,4 @@
 /Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.pdb
 /Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.genruntimeconfig.cache
 /Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/ref/TicketMaster.dll
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.sourcelink.json

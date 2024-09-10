@@ -38,25 +38,32 @@ while (app)
         }
     } else if (navigation == "1")
     {
-        Console.WriteLine("-- Choose an event to delete: --");
-        
-        int index = 0;
-        foreach (var evt in chosenEvents)
+        if (chosenEvents.Count > 0)
         {
-            Console.WriteLine("[" + index + "] " + evt);
-            index++;
-        }
-        
-        string choice = Console.ReadLine();
-        int eventIndex;
+            Console.WriteLine("-- Choose an event to delete: --");
 
-        if (int.TryParse(choice, out eventIndex) && eventIndex >= 0 && eventIndex < events.Length)
-        {
-            chosenEvents.Remove(chosenEvents[eventIndex]);
+            int index = 0;
+            foreach (var evt in chosenEvents)
+            {
+                Console.WriteLine("[" + index + "] " + evt);
+                index++;
+            }
+
+            string choice = Console.ReadLine();
+            int eventIndex;
+
+            if (int.TryParse(choice, out eventIndex) && eventIndex >= 0 && eventIndex < events.Length)
+            {
+                chosenEvents.Remove(chosenEvents[eventIndex]);
+            }
+            else
+            {
+                Console.WriteLine("Invalid choice, please try again.");
+            }
         }
         else
         {
-            Console.WriteLine("Invalid choice, please try again.");
+            Console.WriteLine("-- There are no chosen events to delete. --");
         }
     } else if (navigation == "2")
     {
