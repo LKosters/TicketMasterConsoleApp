@@ -1,0 +1,14 @@
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.AssemblyInfoInputs.cache
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.AssemblyInfo.cs
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.csproj.CoreCompileInputs.cache
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/bin/Debug/net8.0/TicketMaster
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/bin/Debug/net8.0/TicketMaster.deps.json
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/bin/Debug/net8.0/TicketMaster.runtimeconfig.json
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/bin/Debug/net8.0/TicketMaster.dll
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/bin/Debug/net8.0/TicketMaster.pdb
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.dll
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/refint/TicketMaster.dll
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.pdb
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/TicketMaster.genruntimeconfig.cache
+/Users/laurenskosters/RiderProjects/TicketMaster/TicketMaster/obj/Debug/net8.0/ref/TicketMaster.dll
